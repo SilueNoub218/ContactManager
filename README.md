@@ -14,7 +14,7 @@ Le projet contient trois classes principales :
 Cette classe représente un contact.
 Attributs :
 name : nom du contact ;
-phoneNumber : numéro de téléphone du contact.
+phoneNumber : numéro de téléphone.
 
 2. ContactsManager
 Cette classe permet de gérer les contacts.
@@ -31,7 +31,6 @@ de créer un gestionnaire de contacts ;
 d’ajouter plusieurs contacts ;
 de rechercher un contact ;
 d’afficher son numéro de téléphone.
-Technologies utilisées
-Java.
+
 
 
